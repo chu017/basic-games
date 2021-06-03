@@ -65,5 +65,4 @@ var playRules = {
     console.log(isFull);
     return isFull;
   }
-
 }

@@ -6,7 +6,6 @@ build a single-page app for a simple Tic Tac Toe game, where:
  - a button resets the game for a new round of gameplay
 */
 
-
 // When a square is clicked, add an X to that square.
 
 var isPlayOne = true;
@@ -91,8 +90,3 @@ document.getElementById("newGame").addEventListener("click", newGame);
 // Render the View
 // User input Controller
 // Managing app state
-
-
-
-
-
