@@ -5,7 +5,7 @@ simple tic tac toe game built with html, css, and js
 - render the board as table
 - render the piece as innerHTML
 
-## paly rules
+## play rules
 - check is the borad is Empty
 - check is the board is Full
 - check diagonaly
