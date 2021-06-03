@@ -19,10 +19,14 @@ table {
 }
 
 td {
+  outline: none;
   border: 1px solid black;
   height: 100px;
   width: 100px;
   text-align: center;
+  font-size: 3rem;
+  color: red;
+  font-family: Helvetica;
 }
 
 button {
