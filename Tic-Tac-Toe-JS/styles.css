@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: wheat;
+}
+
+table {
+  margin: 10px;
+}
+
+td {
+  outline: none;
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  font-size: 3rem;
+  color: red;
+  font-family: Helvetica;
+}
+
+button {
+  outline: none;
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  background: none;
+  transition: all 0.2s ease-in-out;
+}
