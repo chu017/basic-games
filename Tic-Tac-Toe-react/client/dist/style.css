@@ -23,7 +23,7 @@ ol, ul {
 .square {
   color: black;
   background: wheat;
-  border: 3px solid black;
+  border: 2px solid black;
   float: left;
   font-size: 85px;
   font-weight: 500;
